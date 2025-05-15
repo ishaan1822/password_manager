@@ -36,13 +36,13 @@ pip install cryptography
 
 ## 🖥️ Create Standalone Application
 
-Install 'PyInstaller' using the command:
+Install `PyInstaller` using the command:
 
 ```bash
 pip install pyinstaller
 ```
 
-After installing 'PyInstaller'. Run the command:
+After installing `PyInstaller`. Run the command:
 
 ```bash
 pyinstaller --noconsole --onefile file_name.py
