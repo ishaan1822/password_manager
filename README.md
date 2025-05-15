@@ -32,3 +32,17 @@ Make sure you have Python 3 installed. Then install the required module:
 
 ```bash
 pip install cryptography
+```
+
+## 🖥️ Create Standalone Application
+
+Install 'PyInstaller' using the command:
+
+```bash
+pip install pyinstaller
+```
+
+After installing 'PyInstaller'. Run the command:
+
+```bash
+pyinstaller --noconsole --onefile file_name.py
